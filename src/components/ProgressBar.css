@@ -1,0 +1,13 @@
+ .divNerio {
+    background-color: rgb(192, 192, 192);
+    height: 4rem;
+    width: 40rem;
+    margin-top: 20px;
+    color: white;
+  
+  }
+  .divSamaneh{
+  
+      display: flex;
+      justify-content: space-between;
+  }
